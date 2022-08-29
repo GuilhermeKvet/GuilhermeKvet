@@ -28,6 +28,9 @@ Atualmente, estou estudando desenvolvimento web Fullstack e mobile com Flutter. 
 <div style="display: inline_block">
   <img align="center" alt="Gui-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
   <img align="center" alt="Gui-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Gui-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Gui-Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
+  <img align="center" alt="Gui-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 </div>
 
 ##
