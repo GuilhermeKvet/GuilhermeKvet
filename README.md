@@ -2,7 +2,7 @@
 
 #### Me chamo Guilherme Vinicius Kvet da Rocha!😃
 
-Atualmente, estou estudando desenvolvimento web Fullstack e mobile com Flutter. Aqui no meu perfil esta todos os meus exercicios e projetos realizados ao longo dessa jornada. Sou apaixonado no que faço e quero cada vez aprender mais! 
+Atualmente, estou estudando desenvolvimento web Fullstack e mobile. Aqui no meu perfil esta todos os meus exercicios e projetos realizados ao longo dessa jornada. Sou apaixonado no que faço e quero cada vez aprender mais! 
 
 <div align="center">
   <a href="https://github.com/GuilhermeKvet">
