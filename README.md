@@ -4,6 +4,8 @@
 
 Atualmente, estou estudando desenvolvimento web Fullstack e mobile. Aqui no meu perfil esta todos os meus exercicios e projetos realizados ao longo dessa jornada. Sou apaixonado no que faço e quero cada vez aprender mais! 
 
+meu Email é: guilhermevkvet22@gmail.com
+
 <div align="center">
   <a href="https://github.com/GuilhermeKvet">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeKvet&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
