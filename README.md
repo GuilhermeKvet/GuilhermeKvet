@@ -1,6 +1,4 @@
-### Bem vindos ao meu perfil!! 👋
-
-#### Me chamo Guilherme Vinicius Kvet da Rocha!😃
+# Bem vindos ao meu perfil!! 👋
 
 <div align="center">
   <a href="https://github.com/GuilhermeKvet">
