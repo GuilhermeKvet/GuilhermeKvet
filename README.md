@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindos ao meu perfil!! 👋</h1>
+<h1 align="center">Bem vindos ao meu perfil! 👋</h1>
 
 <div align="center">
   <a href="https://github.com/GuilhermeKvet">
@@ -20,6 +20,7 @@
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="40" width="40" alt="Gui-next" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
   <img align="center" alt="Gui-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" height="40" width="40" alt="Gui-RTL" src="https://testing-library.com/img/octopus-128x128.png" />
 </div><br>
