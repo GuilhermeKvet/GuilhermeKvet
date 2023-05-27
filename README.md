@@ -33,7 +33,6 @@
   <img align="center" alt="Gui-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="Gui-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img align="center" alt="Gui-jwt" height="30" width="40" src="https://jwt.io/img/pic_logo.svg" />
-  <img align="center" alt="Gui-fastapi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
 </div>
   
 ## Banco de Dados
